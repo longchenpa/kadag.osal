@@ -1,9 +1,9 @@
 @#/_/klong chen 'od gsal snying thig/ dkar chag/ Лонгчен Осал: Коментар на Зміст
 
-Архівне посилання: $ links https://github.com/longchenpa/osal
-Посилання на твір: $ wget https://osal.longchenpa.guru/dkar.chag.txt
-Директорія класів: $ cat dkar.chag.txt | grep ") /"
-Директорія творів: $ cat *.txt | grep "@\#/_/" | sort | cut -c5-
+Архівне посилання: $ git clone https://github.com/longchenpa/osal
+Сувій змісту: $ cat osal/dkar.chag.txt
+Структура сувою змісту: $ cat osal/dkar.chag.txt | grep ") /"
+Повний перелік сувоїв: $ cat osal/*.txt | grep "@\#/_/" | sort
 
 | Тут представлений Лонгчен Осал, нінгтік нігтіків.
 | А саме: Дзокчен Сангва Нінгтік, Кхандро Нінгтік, Лонгсал Нінгпо,
