@@ -44,19 +44,28 @@ mun mtshams/ темний ретрит, andhakāra-samādhi, повна темр
 
 Ворота:
 
-OM   — ka dag      — білий/прозорий  — корона   —
-A    — lhun grub   — червоний        — горло    —
-HUM  — rig pa      — синій/індіго    — серце    —
-BAM  - rdo rje     - золотий         - пупок    -
-HO   - pad+ma      - зелен/чорний    - туктік   -
-SHRI - kar+ma      - синьо-чорний    - стопи    -
-NRI  - sangs rgyas - чорний          - міжоччя  -
+OM   — ka dag      — білий/прозорий  — корона    — chos sku
+A    — lhun grub   — червоний        — горло     — longs sku
+HUM  — rig pa      — синій/індіго    — серце     — sprul sku
+BAM  - rdo rje     - золотий         - пупок     - rdo rje sku
+HO   - pad+ma      - зелений/чорний  - туктік    - mngon byang sku
+SHRI - kar+ma      - синьо-чорний    - стопи     - phrin las kyi sgo chen po lhun grub
+NRI  - sangs rgyas - чорний          - міжбрів'я - ngo bo nyid kyi sku
+
+Бардо:
+
+* rang bzhin bar do/ Зовнішній + Внутрішній (rgyud) [1–3] HŪṂ
+* 'chi kha'i bar do/ Таємний (gsang rgyud) [1–4] BAM/SHRI
+* chos nyid bar do/ Абсолютний (yang gsang) [1–5] HO
+* srid pa bar do/ Темний (yang ti) [1–6] NṚ
+
+Цикли садхан:
 
 Зовнішній рівень (dbu ma → rtog pa'i → ro gyi) Пряме сприйняття реальності (Махайога). Передача від Будди Зеленої Тари.
 
 1) /Зелена Тара (зелений OM)
 2) /Праджняпараміта (золотий A)
-3) /Шак'ямуні (синій HUM)
+3) /Шак'я Тубпа (синій HUM)
 
 Внутрішній рівень (+ kun 'dar) Зародження досвіду бачення прозорості (Махайога, Ануйога). Передача від принцеси Мандарави.
 
@@ -81,4 +90,6 @@ NRI  - sangs rgyas - чорний          - міжоччя  -
 1) /Чорна Самантабхадрі (чорний BAM)
 2) /Трома Нагмо (чорний HO)
 3) /Гуру Накпо (чорний NRI)
+
+2025 (с) Лонгчен Осал
 
