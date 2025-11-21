@@ -1,19 +1,3 @@
-@#/_/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/ Ключ-мантри Дакіні
-
-OM A HUM HI MA HA RI NI SA RA TSA HRI YA HUM DZA
-OM HA RI NI SA HUM — Це збирає і накопичує багатство
-HA RI NI SA RA TSA NDRI YA — Ці вісім досягаються через практику тоґалу (прямої трансценденції) Дакіні
-HA RI NI SA RI PA — Це породжує духовне тепло
-HA RI NI SA HITAM HURU SVAHA - Для умиротворення та накопичення заслуг
-HA RI NI SA PUTI KURU SVAHA - Для збільшення
-HA RI NI SA PA SHAM KURU SVAHA - Для розширення можливостей
-HA RI NI SA CHA MO RA YA SO - За гнівну діяльність
-HA RI NI SA CHA MO KHUG KHUG NO THONG - Щоб взяти мудру під контроль
-HA RI NI SA CHU BUR MIG GI GO SOL -  Якщо хтось хоче побачити Дакінь
-HA RI NI SA PU TRA SI RI BRU NI RAKSHA RAKSHA LAM RUNG NI - Щоб оживити дитину
-HA RI NI SA CHOGA KUN ZLOG ZLOG - Щоб відбити всі перешкоди
-TRI U TSA TA YA PHAT - Для відсічі ворогам і загороджувальним силам
-
 @#/_/klong chen 'od gsal snying thig/ rdo rje gsung/ Ваджрні Склади
 
 /rgya gar gyi skad/
@@ -38,6 +22,7 @@ BE   BHE  BHUN BRUM CI   DZA  GHU  :
 GAR  HI   JNA  :    KETA KI   KO   :
 KUN  LEM  NRI  SIR  NTA  PRE  SHU  YE
 
+
 /mkha' 'gro'i skad/
 
 BAM  HRI  HRIH HRIM HUNG TRAM PHEM PHEIM
@@ -57,6 +42,36 @@ YA   VA   RA   LA   :
 ŚA   ṢA   SA   HA   KṢA
 I    Ī    U    Ū    :
 E    AI   O    AU   :
+
+
+
+
+
+
+@#/_/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/ Ключ-мантри Дакіні
+
+OM A HUM HI MA HA RI NI SA RA TSA HRI YA HUM DZA
+OM HA RI NI SA HUM — Це збирає і накопичує багатство
+
+TRI U TSA TA YA PHAT - Для відсічі ворогам і загороджувальним силам
+
+HA RI NI SA HITAM HURU SVAHA - Для умиротворення та накопичення заслуг
+HA RI NI SA PUTI KURU SVAHA - Для збільшення
+
+HA RI NI SA PA SHAM KURU SVAHA - Для розширення можливостей
+HA RI NI SA CHA MO RA YA SO - За гнівну діяльність
+
+HA RI NI SA CHA MO KHUG KHUG NO THONG - Щоб взяти мудру під контроль
+HA RI NI SA PU TRA SI RI BRU NI RAKSHA RAKSHA LAM RUNG NI - Щоб оживити дитину
+HA RI NI SA CHOGA KUN ZLOG ZLOG - Щоб відбити всі перешкоди
+
+HA RI NI SA CHU BUR MIG GI GO SOL -  Якщо хтось хоче побачити Дакінь
+HA RI NI SA RI PA — Це породжує духовне тепло
+HA RI NI SA RA TSA NDRI YA — Ці вісім досягаються через практику тоґалу (прямої трансценденції) Дакіні
+
+
+
+
 
 @#/_/klong chen 'od gsal snying thig/ sa bon bi ja/ Бі-Джа склади
 
@@ -82,6 +97,7 @@ JA: Народження.
 TSA: Сяйво.
 KTA: Перетворення.
 
+
 Вогонь:
 HA: Подих.
 RA: Енергія вогню.
@@ -100,6 +116,12 @@ SHA: Мир.
 SHRI: Слава.
 SU: Добро.
 RTA: Порядок.
+
+
+
+
+
+
 
 Земля:
 MI: Прояв землі.
@@ -121,6 +143,10 @@ NA: Очищувальна вода.
 KSHI: Захистне руйнування.
 PHA: Вибух.
 PHAT: Руйнування.
+
+
+
+
 
 Мислення:
 BHA: Милосердний.
@@ -144,6 +170,8 @@ KI: Енергія світла.
 RI: Чиста ясність.
 RE: Динамічна енергія світла.
 RYA: Динамічна ясність.
+
+
 
 Структурні:
 NAM: Поклоніння.
@@ -187,6 +215,13 @@ HUNG: Фіксація.
 PHEM: Руйнування.
 PHEIM: Очищення.
 TRAM: Насіння Ратнасабхави.
+
+
+
+
+
+
+
 
 @#/_/klong chen 'od gsal snying thig/ sngags kyi mchod pa/ Ваджрні Слова
 
@@ -236,6 +271,8 @@ SAMKRAMANA: Передай.
 TISHTA: Стань.
 VISHUDDHA: Очисти.
 
+
+
 Офіри:
 AMRITA: Нектар.
 RAKTA: Кров.
@@ -254,6 +291,12 @@ PANCA: П'ять.
 PUJA: Пошана.
 GANACAKRA: Зібрання.
 VIJÑĀNA: Свідомість.
+
+
+
+
+
+
 
 Захисники:
 DHARMA PALA: Захисник дхарми.
@@ -300,6 +343,10 @@ PHALA: Плід, результат.
 PRE: Перед, префікс.
 TRAG: Коза.
 TSE: Життя, час.
+
+
+
+
 
 @#/_/klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/ 25 Тіглє Самантабхадри
 
