@@ -61,7 +61,7 @@ rtsa ba/ root
 don khrid/ practical guide
 spyi don/ general
 
-rgyud 'bum ling:
+rgyud 'bum ling/ Індекс текстів Г'юбум Лінга
 
 001 rang grol skor gsum la (spyi don)/ Start of Rang Grol Korsum — On the Trilogy of Natural Liberation
 002 rdzogs pa chen po sems nyid rang grol gyi rtsa ba le'u gsum pa (rtsa ba)/ Natural Liberation of the Nature of Mind (Root, 3 chapters)
@@ -73,7 +73,7 @@ rgyud 'bum ling:
 008 mnyam nyid rang grol gyi don khrid rin chen snying po (don khrid)/ Jewel Essence: Practical Guide to Natural Liberation of Equalness
 009 byang chub kyi sems kun byed rgyal po'i don khrid rin chen gru bo bcas (don khrid)/ Jewel Ship: Practical Guide to The King That Creates All (Bodhichitta)
 
-a 'dzom chos sgar par khang:
+a 'dzom chos sgar par khang/ Індекс текстів збірки Адзом Чогара
 
 །རང་གྲོལ་སྐོར་གསུམ་ལ། 251 ཐ་
 རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཅུ་བདུན་པའི་སྲིབ་ཕྲེང་བཞི་པའི་བར་དང་། 284 Natural Liberation of the Nature of Mind (Root, 3 chapters)
