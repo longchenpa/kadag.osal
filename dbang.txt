@@ -30,20 +30,20 @@ phyi'i dbang lnga/ П'ять зовнішніх посвят [1]. Махайог
 nang gi dbang lnga/ П'ять внутрішніх посвят [2]. Махайога.
 gsang ba'i dbang/ Друга Таємна посвята. Махайога.
 shes rab ye shes kyi dbang/ Посвята Мудрості. Махайога.
-rig pa'i rtsal dbang/ Четверта Посвята Енергії Рінпа. Махайога.
+rig pa'i rtsal dbang/ Четверта Посвята Енергії Рінпа. Махайога. [5]
 
 Ануйога:
 
 rgyu'i dbang/ Причинна зовнішня посвята. Ануйога.
 'bras bu'i dbang/ Таємна посвята плоду. Ануйога.
-de bzhin nyid chen po'i dbang/ Посвята великої такості [3]. Ануйога.
+de bzhin nyid chen po'i dbang/ Посвята великої такості [3,6]. Ануйога.
 
 Атійога:
 
 ngo sprod kyi dbang/ ngo bo/ Пряме введеня в природу розуму. Атійога.
 rig pa gcig shes kyi dbang/ Посвята недвоїстого стану рігпа. Атійога.
-rig pa’i rtsal dbang/ Посвята динамічної енергії рігпа. Атійога.
-rin po che sbrum pa'i dbang/ Коштовна посвята відкриття скрині [4]. Атійога.
+rig pa’i rtsal dbang/ Посвята динамічної енергії рігпа. Атійога. [7]
+rin po che sbrum pa'i dbang/ Коштовна посвята відкриття скрині [8]. Атійога.
 
 yang tig/ ye shes bla ma/ Посвяти найвищих секретних циклів.
 rdo rje slob dpon gyi dbang/ Посвята ваджрного вчителя.
@@ -83,7 +83,7 @@ rdo rje slob dpon gyi dbang/ Посвята ваджрного вчителя.
 Реалізація після посвячення:
 
 1) Дозволяє практикувати ілюзійне тіло та ясне світло ('od gsal) на рівні генерації
-2) Дозволяє практикувати миттєве завершення (cig car ’grub pa) через блаженство-порожнечу
+2) Дозволяє практикувати миттєве завершення (cig car 'grub pa) через блаженство-порожнечу
 3) Дозволяє трекчо (khregs chod) і початок тогал (thod rgal)
 
 Традиційні джерела:
@@ -92,15 +92,21 @@ rdo rje slob dpon gyi dbang/ Посвята ваджрного вчителя.
 2) Anuyoga root tantras (kun 'dus rig pa'i mdo), Mipham (snying thig srong 'dus), Namkhai Norbu (gsang ba'i rgya can)
 3) Longchenpa (chos dbyings mdzod, tshig don mdzod), Jigme Lingpa (klong chen snying thig), Patrul (tshig gsum gnad brdeg)
 
+Тексти:
+
+1) https://journals.openedition.org/emscat/pdf/6613
+2) https://lacas.inalco.fr/sites/default/files/2024-03/Revue%20d%E2%80%99Etudes%20Tib%C3%A9taines_n%C2%B068.pdf
+3) https://library.oapen.org/bitstream/handle/20.500.12657/86597/9789004536371.pdf
+
 Примітки:
 
-[1] Вода, корона, ваджра, дзвін, ім’я.
-[2] Два посилення навчання та медитації (користь собі), два посилення викладу та діяльності (користь іншим), посилення царя всеохоплюючих вчень.
-[3] Рігпей Цалванг рівня Ануйоги. Фокус на Ца Лунг.
-[4] Коштовна посвята вичерпання феноменів у просторі реальності, Посвята вичерпання дхарм.
-[5] https://journals.openedition.org/emscat/pdf/6613
-[6] https://lacas.inalco.fr/sites/default/files/2024-03/Revue%20d%E2%80%99Etudes%20Tib%C3%A9taines_n%C2%B068.pdf
-[7] https://library.oapen.org/bitstream/handle/20.500.12657/86597/9789004536371.pdf
+[1] Вода, корона, ваджра, дзвін, ім'я.
+[2] Два для себ (bka' bshad — викладання; sgom pa — медитація); Два для інших (spyod pa — поведінка; las — дія); Один всеохоплюючий (rdo rje rgyal po — ваджра-цар вчень).
+[3] Рігпей Цалванг рівня Ануйоги; фокус на tsa rlung через las rgya (кармічну йогу).
+[5] Gyumub: Guhyagarbha Tantra; Longchenpa: sgyu 'phrul drwa ba.
+[6] Gyubum: kun 'dus rig pa'i mdo; Mipham: snying thig sgron 'dus.
+[7] Longchenpa: chos dbyings mdzod; Jigme Lingpa: klong chen snying thig Patrul: tshig gsum gnad brdeg.
+[8] Коштовна посвята вичерпання феноменів у просторі реальності, Посвята вичерпання дхарм.
 
 @#/_/klong chen snying thig/ thig le'i rgya can gyi smin byed ye shes mchog sbyin zhes bya ba bzhugs so/ Дарування Печатки Тіґлє Г'ялчен
 
