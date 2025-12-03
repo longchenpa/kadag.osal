@@ -1,28 +1,3 @@
-@#/_/klong chen 'od gsal snying thig/ zhi gnas/ Дев'ять стадій медитації Шине
-
-* Шаматха з ознаками
-* Шаматха без характеристик
-* Шаматха, що приносить користь істотам
-
-mtshan bcas kyi zhi gnas: Шаматха з ознаками
-
-1) phyi’i dmigs pa la gnas pa/ З опорою на зовнішній об'єкт
-2) nang gi dmigs pa la gnas pa/ З опорою всередині
-
-mtshan med kyi zhi gnas: Шаматха без характеристик
-
-3) sems rang sor bzhag pa/ Відпочинок мислення в свому природньому стані
-4) sems rtsa ba bcings pa/ Стискання або зв'язування розуму в корені
-5) sems dul bar byed pa/ Ретельне приборкання розуму
-
-sems can don sdab kyi zhi gnas: Шаматха, що приносить користь істотам
-
-6) nyon mongs pa rnam par sbyong ba/ Повне очищення від болісних емоцій
-7) sgrib pa yongs su sbyong ba/ Повністю очищаючи затьмарення
-8) tshogs rnam par rdzogs par byed pa/ Повне вдосконалення накопичень
-9) sems can gyi don rnam par sgrub pa or phrin las kyi don sgrub pa/ Досягнення благополуччя живих істот
-
-
 @#/_/bdud 'joms 'jigs bral ye shes rdo rje/ zhi gnas/ Дуджом Рінпоче про медитацію Шине (1979)
 
 Пильнування мислення:
@@ -336,3 +311,27 @@ Source:
 https://github.com/longchenpa/longchenpa.guru/blob/master/gter.ma/'jigs.bral.ye.shes.rdo.rje/man.ngag/zhi.gnas.mp4
 
 2025 (с) Лонгчен Осал
+
+@#/_/klong chen 'od gsal snying thig/ zhi gnas/ Дев'ять стадій медитації Шине
+
+* Шаматха з ознаками
+* Шаматха без характеристик
+* Шаматха, що приносить користь істотам
+
+mtshan bcas kyi zhi gnas: Шаматха з ознаками
+
+1) phyi’i dmigs pa la gnas pa/ З опорою на зовнішній об'єкт
+2) nang gi dmigs pa la gnas pa/ З опорою всередині
+
+mtshan med kyi zhi gnas: Шаматха без характеристик
+
+3) sems rang sor bzhag pa/ Відпочинок мислення в свому природньому стані
+4) sems rtsa ba bcings pa/ Стискання або зв'язування розуму в корені
+5) sems dul bar byed pa/ Ретельне приборкання розуму
+
+sems can don sdab kyi zhi gnas: Шаматха, що приносить користь істотам
+
+6) nyon mongs pa rnam par sbyong ba/ Повне очищення від болісних емоцій
+7) sgrib pa yongs su sbyong ba/ Повністю очищаючи затьмарення
+8) tshogs rnam par rdzogs par byed pa/ Повне вдосконалення накопичень
+9) sems can gyi don rnam par sgrub pa or phrin las kyi don sgrub pa/ Досягнення благополуччя живих істот
