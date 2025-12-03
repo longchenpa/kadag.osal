@@ -181,7 +181,7 @@
 144 ye shes mtsho rgyal gyi rnams thar ut+pal pad+ma'i phreng ba [txt] Життєпис Єше Цхоґ’ял — Гірлянда лотосів синього і рожевого лотоса
 145 ye shes mtsho rgyal gyi rnam thar don bsdus snying po [txt] Скорочений життєпис Єше Цхоґ’ял — Суть сенсу
 
-08) gangs can rig pa 'dzin ma dag gi rnam thar [col] Життєписи тибетських від’янідгарік (жінок-носіїв знання)
+08) gangs can rig pa 'dzin ma dag gi rnam thar [col] Життєписи тибетських Рігдзінма (жінок-носіїв знання)
 
 12) lha lcam pad+ma gsal sogs kyi rnam thar/ (pod bcu gnyis pa/) [vol] Том 12
 146 dkar chag [toc] Зміст
@@ -284,7 +284,7 @@
 226 'dus pa don dam pa las phyi ma'i rgyud kyi rgyal po [txt] Пізніша тантра-цар зі «Збору Найвищого сенсу»
 227 sgrol ma dkar mo'i tshe yi yang tig gi rgyud kyi snying po [txt] Суть тантри есенції життя Білої Тари
 
-11) mkha' 'gro'i rgyud dag [col] Тантри дакіні
+11) mkha' 'gro'i rgyud dag [col] Тантри Дакіні
 
 20) mkha' 'gro'i rgyud dag/ (pod nyi shu pa/) [vol] Том 20
 228 dkar chag [toc] Зміст
@@ -299,7 +299,7 @@
 
 21) mkha' 'gro rgya mtsho'i rtogs brjod dang brda mgur gsang mdzod/ (pod nyer gcig pa/) [vol] Том 21
 235 dkar chag [toc] Зміст
-236 rig 'dzin mkha' 'gro'i rtogs pa brjod pa'i glu [txt] Пісня реалізації від’ядгарині Кхандро
+236 rig 'dzin mkha' 'gro'i rtogs pa brjod pa'i glu [txt] Пісня реалізації Від’ядгарині Кхандро
 237 zhal gdams 'od kyi snye ma [txt] Усні настанови — Промені світла
 238 thig le dag pa'i phreng ba [txt] Гірлянда чистих крапель
 239 phyag rgya chen po rin po che brda'i man ngag [txt] Настанова махамудри — символи коштовності
@@ -479,7 +479,7 @@
 389 jo mo sman mo'i gter chos [txt] Терма Джо Мо Сман Мо
 390 kun dga' 'bum gyi gter chos [txt] Терма Кунґа Бум
 
-18) mi 'gyur dpal sgron gyi gsung [col] Промови Мі Ґ’юр Дпал Ґ’ї Сґрон
+18) mi 'gyur dpal sgron gyi gsung [col] Промови Міг’юр Дпалг’ї Дрон
 29) rje btsun mi 'gyur dpal sgron gyi gsung/ (pod nyer dgu pa/) [vol] Том 29
 
 391 dkar chag [toc] Зміст
@@ -496,7 +496,7 @@
 30) 'phrin las chos sgron sogs mkha' 'gro ma 'ga'i gsung chos/ (pod sum bcu pa/) [vol] Том 30
 
 400 dkar chag [toc] Зміст
-401 'phrin las chos sgron gyi gsung [txt] Промови Пхрін Лас Чос Сґрон
+401 'phrin las chos sgron gyi gsung [txt] Промови Чінла Чодрон
 402 bslab bya thar lam rab snang [txt] Ясний шлях визволення — те, чого треба навчати
 403 gzim chung ma'i zhal gdams [txt] Усні настанови молодшої дружини
 404 a phyi'i sgrub thabs [txt] Садгана Ач’ї
@@ -520,11 +520,11 @@
 422 byin rlabs dbang gi rjes gnang [txt] Післяпосвята благословення
 423 bla ma'i rnal 'byor byin rlabs myur stsol [txt] Йоґа гуру — Швидке дарування благословення
 
-20) dbus bza' mkha' 'gro'i gter chos [col] Терма дакіні їжі Дбус Мо (Бде Ваї Рдо Рдже)
+20) dbus bza' mkha' 'gro'i gter chos [col] Терма дакіні Бубза Кхандро
 
 31) dbus bza' mkha' 'gro'i gter chos/ (pod so gcig pa/) [vol] Том 31
 424 dkar chag [toc] Зміст
-425 dbus mo bde ba'i rdo rje'i rnam thar skal ldan dad pa'i mchod sdong [txt] Життєпис Дбус Мо Бде Ваї Рдо Рдже — Ступа віри щасливих
+425 dbus mo bde ba'i rdo rje'i rnam thar skal ldan dad pa'i mchod sdong [txt] Життєпис Бумо Дева Дордже — Ступа віри щасливих
 426 rang rnam tshigs bcad ma ku su la'i nyams byung gi gtam [txt] Автобіографія в віршах — Досвід Ку Су
 
 32) dbus bza' mkha' 'gro'i gter chos/ (pod so gnyis pa/) [vol] Том 32
@@ -781,7 +781,7 @@
 
 37) dbus bza' mkha' 'gro'i gter chos/ (pod so bdun pa/) [vol] Том 37
 671 dkar chag [toc] Зміст
-672 'gro 'dul gsang sngags gling pa'i rnam thar [txt] Життєпис Ґро Дул Ґсанґ Снаґ Ґлінґ Па
+672 'gro 'dul gsang sngags gling pa'i rnam thar [txt] Життєпис Додул Санг'є Лінгпа
 
 38) dbus bza' mkha' 'gro'i gter chos/ (pod so brgyad pa/) [vol] Том 38
 673 dkar chag [toc] Зміст
@@ -914,7 +914,7 @@
 796 dbyangs can dkar mo'i sgrub thabs bsdus pa sprin bral zla gzer [txt] Скорочена садгана Білої Сарасваті – місячний промінь без хмар
 797 rigs byed ma'i lus dkyil bsdus pa [txt] Скорочена мандала тіла Ріґджедми
 
-40) mkha' 'gro tA re lha mo'i gter chos/ (pod bzhi bcu pa/) [vol] Том 40 — Терма Кхандро Тари Лхамо (другий том)
+40) mkha' 'gro tA re lha mo'i gter chos/ (pod bzhi bcu pa/) [vol] Том 40 — Терма Кхандро Таре Лхамо (другий том)
 798 dkar chag [toc] Зміст
 799 dbang mdzad ku ru kul+le'i phyag rgya bsdus pa dbang gi lcags kyu [txt] Скорочена мудра посвячення Куруккулли — залізний гак влади
 800 b+hud+d+ha DAk+ki'i gsang sgrub rkyen ngan kun sel dngos grub dpal ster [txt] Таємна садгана буддівської дакіні — усуває всі погані умови, славне здійснення
@@ -998,7 +998,7 @@
 878 zhal gdams dang de'i 'grel ba ye shes sgron me'i skor [txt] Цикл усних настанов та їх коментарів — ліхтар мудрості
 879 'jang g.yu lha'i rtogs brjod dpa' bo'i gad rgyangs [txt] Життєпис Джанґ’ю Лхи — героїчний речитатив
 
-22) zla gsal dbang mo'i gsung 'bum [col] Збірка промов Зла Ґсал Дбанґ Мо
+22) zla gsal dbang mo'i gsung 'bum [col] Збірка промов Ласал Вангмо
 41) mdo zla gsal dbang mo'i gsung chos/ (pod zhe gcig pa/) [vol] Том 41
 880 dkar chag [toc] Зміст
 881 mdo zla gsal dbang mo'i mdzad rnam rags bsdus [txt] Короткий життєпис Мдо Зла Ґсал Дбанґ Мо
@@ -1071,7 +1071,7 @@
 948 tshe thar gtong thabs 'chi med srog ster [txt] Метод відпускання життя — дарування безсмертного життя
 949 tshe thar gtong thabs bsdus pa [txt] Скорочений метод відпускання життя
 
-23) thub bstan rig byed lha mo'i gsung chos [col] Вчення богині-захисниці вчення Будди – Тхубтен Ріґджед Лхамо
+23) thub bstan rig byed lha mo'i gsung chos [col] Вчення богині-захисниці вчення Будди – Тубтен Ріґджед Лхамо
 
 42) sdom gsum rnam bshad blo gsar yid kyi me tog stod cha/ (pod zhe gnyis pa/) [vol] Том 42 – Верхня частина
 950 dkar chag [toc] Зміст
@@ -1145,8 +1145,8 @@
 1000 mu med ye shes mtsho mo la bstod pa khag [txt] Прославлення Му Мед Єшес Мтшо Мо (збірка)
 
 25) zhal gdams kyi skor gces btus [col] Вибрані усні настанови – Ліхтар, що ясно показує шлях визволення
-51) zhal gdams kyi skor gces btus thar lam gsal ba'i sgron me/ (pod nga gcig pa/) [vol] Том 51
 
+51) zhal gdams kyi skor gces btus thar lam gsal ba'i sgron me/ (pod nga gcig pa/) [vol] Том 51
 1001 dkar chag [toc] Зміст
 1002 jo mo la gdams pa'i chos skor [txt] Цикл вчень, даних жінкам
 
