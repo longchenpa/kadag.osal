@@ -23,7 +23,7 @@
     2.30 KiB @#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/ Пісня Ваджра
        325 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/ Бхумі Паті Локакапали
     5.28 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
-       170 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-йога білого А
+       170 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-Йога білого А
        237 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/ Гуру-Йога
    18.52 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ sems sde'i rnal 'byor bzhi/ Чотири споглядання мислення
        526 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ sngon 'gro/ Ньондро Лонгчен Осал Кхандро Нінгтік
@@ -61,7 +61,7 @@
    43.53 KiB @#/_/klong chen snying thig rtsa pod/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/ Лонгчен Нінгтік: Сміх Дакіні
   160.78 KiB @#/_/klong chen snying thig rtsa pod/ gdod ma'i mgon po'i lam gyi rim pa 'i khrid yig ye shes bla ma zhes bya ba bzhugs/ Кхрід Їк Єше Лама (079,122,408)
        635 B @#/_/klong chen snying thig rtsa pod/ nang gsang rnal 'byor/ Таємна Гуру Йога
-       475 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
+       489 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога (007,007,271)
    58.41 KiB @#/_/klong chen snying thig rtsa pod/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
        353 B @#/_/klong chen snying thig rtsa pod/ rdo rje gsung/ Мантра ваджрного мовлення
        174 B @#/_/klong chen snying thig rtsa pod/ rdo rje sems dpa'/ Дордже Семпа
@@ -84,7 +84,7 @@
     1.88 KiB @#/_/mkha' 'gro snying thig/ yang ti gser gyi 'bru gcig pa'i rgyud/ Тантра Унікального Золотого Складу Янгті
   164.48 KiB @#/_/mkha' 'gro'i chos mdzod chen mo/ dkar chag/ Велика скарбниця Дгарми Дакіні
    16.98 KiB @#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/ Гнівна Чорна
-    6.05 KiB @#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі
+    6.07 KiB @#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі Німи Дракпа
     8.09 KiB @#/_/nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/ З Глибокої Краплі Чорної Ваджрайогіні: Знаки Практики Дакині
    49.97 KiB @#/_/nyi ma grags pa/ rnam thar/ Автобіографія Ньїма Дракпа
    10.34 KiB @#/_/nyi ma grags pa/ thod rgal khrid yig/ Тогал Кхрід Їк
@@ -92,7 +92,7 @@
    44.66 KiB @#/_/rdza dpal sprul/ dmigs rim bsdus pa/ Короткий посібник з етапів візуалізації для практики Ньондро
   654.70 KiB @#/_/rdza dpal sprul/ snying thig sngon 'gro'i khrid yig kun bzang  bla ma'i zhal lung bzhugs/ Нінгтік Ньондро Крід Їк Кунзан Ламеї Шалунг
     9.36 KiB @#/_/rnam dag ston pa/ chos mchog chen po'i rgyud las klong lnga rtog rdzogs kyi gnad yig/ Тантра Дгармоттари: Запис сутнісних пунктів п'яти просторів досконалої обчислювальної логіки
-    1.14 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/ Ньїда Кхаджор
+    1.18 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Ньїда Кхаджор (тільки пісня Ваджра)
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
 
